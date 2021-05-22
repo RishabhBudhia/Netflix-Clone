@@ -1,3 +1,7 @@
 ## NETFLIX CLONE
 
-[[https://netflix-clone-rishabhb.netlify.app](https://netflix-clone-rishabhb.netlify.app/)](https://)
+Hosted Link
+
+[https://netflix-clone-rishabhb.netlify.app](https://netflix-clone-rishabhb.netlify.app/)
+
+Made by - Rishabh Budhia
